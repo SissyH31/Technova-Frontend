@@ -1,0 +1,75 @@
+* {
+  box-sizing: border-box;
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 250px;
+  left: 0;
+}
+
+.background-color {
+  background-color: #b4e5f1;
+  height: 199px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  height: 250px;
+}
+
+.description {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 170px;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+}
+
+.sign {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 400px;
+    bottom: 0;
+    padding: 40px;
+}
+
+.sign-up { 
+    left: 900px;
+}
+
+.sign-in { 
+    right: 900px;
+}
+
+
+.text {
+  padding: 20px;
+  background-color: #10A0C2;
+  font-family: "Roboto", sans-serif;
+  font-size: 30px;
+  color: white;
+  text-align: center;
+  border: 0;
+  cursor: pointer;
+  font-weight: 1000;
+}
+
+.text:hover { 
+    background-color: #daf8ff;
+}
+
+.text:active {
+    background-color: #07687e;
+  }
