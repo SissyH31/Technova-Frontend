@@ -13,27 +13,6 @@
 			.info > form > input{
                 margin-left: 100px;
             }
-            /* .info > .Items > form{
-                margin-left: 100px;
-            }
-			.info > .Items > form > input{
-                margin-left: 10px;
-            }
-			.info > .Amount > form{
-                margin-left: 100px;
-            }
-			.info > .Amount > form > input{
-                margin-left: 4px;
-            }
-			.info > .Price > form{
-                margin-left: 100px;
-            }
-			.info > .Price > form > input{
-                margin-left: 22px;
-            }
-			.info > .Emergency > label{
-                margin-left: 100px;
-            } */
         </style>
     </head>
     <body>
