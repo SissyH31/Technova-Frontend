@@ -1,1 +1,41 @@
-
+.menu div:hover {
+    color:black;
+}
+.searchBar {
+    display: flex;
+    width: 60%;
+    height: 10%;
+}
+.searchBar > label {
+    font-size: 125%;
+}
+.searchBar > img {
+    margin-left: 20%;
+    margin-right: 2%;
+    width: 20%;
+    height: 20%;
+}
+.menu {
+    color: #a59e9e;
+}
+.logo {
+    text-align: center;
+}
+.searchBar {
+    text-align: center;
+}
+.container {
+    display: grid;
+    grid-template-columns: 1fr;
+}     
+.menu {
+    display: flex;
+    justify-content: center;
+}
+.menu > div {
+    margin-right: 10px;
+}
+input {
+    width: 1000px;
+    height: 30px;
+}
